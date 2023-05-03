@@ -1,5 +1,8 @@
 # Four-Number-Sum...
 
+- ## **_Category-Arrays_**
+- ### **_Difficulty-Hard_**
+
 This is a function that takes in a non-empty array of distinct integers and an integer representing a target sum. The function finds all quadruplets in the array that sum up to the target sum and returns a two-dimensional array of all those quadruplets
 
 ## Sample Input
