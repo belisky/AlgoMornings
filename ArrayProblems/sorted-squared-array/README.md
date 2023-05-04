@@ -39,7 +39,7 @@ array=[-3,1,2,5]
 
 ---
 
--The space complexity of this approach is O(1)
+-The space complexity of this approach is O(n)
 
 ---
 
