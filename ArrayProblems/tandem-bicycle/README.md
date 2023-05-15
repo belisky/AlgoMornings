@@ -31,7 +31,7 @@ fastest=true
 
 ---
 
-- The time complexity of this approach is O(nlog(n))-- where n is equivalent to the number of students
+- The time complexity of this approach is O(nlog(n))-- where n is equivalent to the length of either of the input arrays.
 
 ### Space Complexity
 
