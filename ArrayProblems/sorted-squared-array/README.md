@@ -1,4 +1,4 @@
-# Two-Number-Sum...
+# Sorted Squared Array...
 
 - ## **_Category-Arrays_**
 - ### **_Difficulty-Easy_**
@@ -21,25 +21,25 @@ array=[-3,1,2,5]
 
 ---
 
-- I initialize an array the same size as the input array and keep a pointer on it starting from the lastItem(pos).
-- I use the two pointer approach where one pointer points to the beginning of the input array(min) and another pointer points to the end of the input array(max)
-- Using a while loop, i iterate throught the input array, comparing the absolute values of the elements located at min and max pointers respectively.
-- The greater element gets squared and is inserted at the index of pos.
-- If it is the element pointed to by min that got squared, min pointer increases
-- If it is the element pointed to by max that got squared, max pointer decreases.
-- Pos then decreases regardless of which element got squared.
+- I initialize an array the same size as the input array and keep a pointer on it starting from the lastValueIndex.
+- I use the two pointer approach where one pointer points to the beginning of the input smallerValueIndex and another pointer points to the end of the input array largetValueIndex.
+- Using a while loop, i iterate throught the input array, comparing the absolute values of the elements located at smallerValueIndex and the largeValueIndex respectively.
+- The greater element gets squared and is inserted at the index of currentPointer.
+- If it is the element pointed to by smallerValueIndex that got squared, smallerValueIndex increases
+- If it is the element pointed to by largerValueIndex that got squared, largerValueIndex decreases.
+- CurrentPointer then decreases regardless of which element got squared.
 
 ### Time Complexity
 
 ---
 
--The time complexity of this approach is O(n).
+- The time complexity of this approach is O(n).
 
 ### Space Complexity
 
 ---
 
--The space complexity of this approach is O(n)
+- The space complexity of this approach is O(n)
 
 ---
 
