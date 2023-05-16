@@ -2,6 +2,8 @@
 
 - ## **_Category-Arrays_**
 - ### **_Difficulty-Easy_**
+![sortedSquares](https://github.com/belisky/AlgoMornings/assets/61013338/9e98177a-c139-4b60-9478-cadb23236191)
+
 
 Write a function that takes an array with elements in ascending order and returns the squares of the elements as an array also in ascending order.
 
