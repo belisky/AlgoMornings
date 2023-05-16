@@ -4,8 +4,7 @@ def minimumWaitingTime(queries):
     queries = sorted(queries)
 
     for i in range(len(queries) - 1):
-        sum_total += queries[i]
-        # print(sum_total)
+        sum_total += queries[i]         
         sums.append(sum_total)
 
     return sum(sums)
