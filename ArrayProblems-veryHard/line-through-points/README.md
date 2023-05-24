@@ -1,4 +1,5 @@
 # Line Through Points...
+![line-through-points](https://github.com/belisky/AlgoMornings/assets/61013338/bbcae942-a4f1-4310-b150-f236e945efc0)
 
 - ## **_Category-Arrays_**
 - ### **_Difficulty-veryHard_**
