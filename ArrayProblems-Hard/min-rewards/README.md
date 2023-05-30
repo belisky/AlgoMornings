@@ -1,4 +1,5 @@
 # Minimum Rewards...
+![min-rewards](https://github.com/belisky/AlgoMornings/assets/61013338/32bc55c1-6748-42c9-ac8b-713c55b4d842)
 
 - ## **_Category-Arrays_**
 - ### **_Difficulty-Hard_**
