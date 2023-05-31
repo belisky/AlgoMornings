@@ -1,6 +1,8 @@
 # Validate BST...
+![validate-bst](https://github.com/belisky/AlgoMornings/assets/61013338/d6fccb49-50c5-4db9-8ccc-a645a1ced40a)
 
 - ## **_Category-BST_**
+
 - ### **_Difficulty-Medium_**
 
 Write a function that takes in a potentially invalid Binary Search Tree and returns a boolean representing whether the BST is valid.
