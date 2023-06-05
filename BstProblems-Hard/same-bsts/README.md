@@ -1,4 +1,6 @@
 # Same BSTs...
+![same-bsts](https://github.com/belisky/AlgoMornings/assets/61013338/4ab83c46-0328-4de8-bfe1-81c7be81f27d)
+
 
 - ## **_Category-BST_**
 - ### **_Difficulty-Hard_**
