@@ -1,4 +1,5 @@
-# Same BSTs...
+# Validate Three nodes...
+![validate-three-nodes](https://github.com/belisky/AlgoMornings/assets/61013338/007626c3-8d1a-4992-b25f-3d130394ee78)
 
 - ## **_Category-BST_**
 - ### **_Difficulty-Hard_**
