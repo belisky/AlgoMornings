@@ -1,4 +1,5 @@
 # Repair BST...
+![repair-bst](https://github.com/belisky/AlgoMornings/assets/61013338/33a8f8eb-ee9c-40db-822e-b8ab71ac7265)
 
 - ## **_Category-BST_**
 - ### **_Difficulty-Hard_**
