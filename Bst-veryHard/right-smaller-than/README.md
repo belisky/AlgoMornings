@@ -1,4 +1,5 @@
 # Right Smaller Than...
+![right-smaller-than](https://github.com/belisky/AlgoMornings/assets/61013338/66095bb5-b4a8-450b-a8fd-f397a48a5c14)
 
 - ## **_Category-BST_**
 - ### **_Difficulty-veryHard_**
