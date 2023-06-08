@@ -1,4 +1,5 @@
 # Missing Numbers..
+![missing-numbers](https://github.com/belisky/AlgoMornings/assets/61013338/04e74519-f325-49c6-84d2-29765f36d3ad)
 
 - ## **_Category-Arrays_**
 - ### **_Difficulty-Medium_**
