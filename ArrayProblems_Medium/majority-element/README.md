@@ -1,4 +1,6 @@
 # Majority Element...
+![majority-element](https://github.com/belisky/AlgoMornings/assets/61013338/386e89f1-6ee7-4a6c-8f3d-d7b4ac086b8f)
+
 
 - ## **_Category-Arrays_**
 - ### **_Difficulty-Medium_**
