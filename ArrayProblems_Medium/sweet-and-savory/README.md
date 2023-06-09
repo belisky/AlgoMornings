@@ -1,4 +1,6 @@
 # Sweet and Savory...
+![sweet-or-savory](https://github.com/belisky/AlgoMornings/assets/61013338/b0362394-1667-4028-bdda-28fe127f3eb0)
+
 
 - ## **_Category-Arrays_**
 - ### **_Difficulty-Medium_**
@@ -24,7 +26,7 @@ target=8
 
 - I separate the dishes into sweet and savory, sorted in ascending order.
 - with pointers on both separated dishes, I try to combine them to get the best effect and adjust the pointers appropriately in that regard.
-- I then check if each combination is closer to the target as possible and return that combination.
+- I then check if each combination is closer to the target as possible and return the best possible combination.
 
 ### Time Complexity
 
