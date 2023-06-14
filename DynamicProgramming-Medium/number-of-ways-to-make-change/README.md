@@ -1,4 +1,6 @@
 # Number of Ways to Make Change...
+![coinChange](https://github.com/belisky/AlgoMornings/assets/61013338/10883a07-0d50-4725-9f3f-ba5b6fd70368)
+
 
 - ## **_Category-Dynamic Programming_**
 - ### **_Difficulty-Medium_**
