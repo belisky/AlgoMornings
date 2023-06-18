@@ -1,4 +1,5 @@
 # Minimum Number of Coins to make a change...
+![minimum_number_of_coins](https://github.com/belisky/AlgoMornings/assets/61013338/ca6712e1-832f-4a35-9454-a7e8dd27bd58)
 
 - ## **_Category-Dynamic Programming_**
 - ### **_Difficulty-Medium_**
