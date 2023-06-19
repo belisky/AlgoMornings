@@ -1,4 +1,6 @@
 # Number of Ways to Traverse Graph...
+![numberOfGraphTraversalWays](https://github.com/belisky/AlgoMornings/assets/61013338/b022e47d-5dc5-44a7-8be9-3c3cf2f3cff2)
+
 
 - ## **_Category-Dynamic Programming_**
 - ### **_Difficulty-Medium_**
