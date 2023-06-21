@@ -1,4 +1,5 @@
 # Longest Common Subsequence...
+![lcs](https://github.com/belisky/AlgoMornings/assets/61013338/9acf6080-9b13-4251-aec2-3e6c28a738ef)
 
 - ## **_Category-Dynamic Programming_**
 - ### **_Difficulty-Hard_**
