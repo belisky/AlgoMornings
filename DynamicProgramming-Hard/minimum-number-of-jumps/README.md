@@ -1,4 +1,6 @@
-# Maximum Sum Increasing subSequence...
+# Minimum Number of Jumps...
+![min-jumps](https://github.com/belisky/AlgoMornings/assets/61013338/dfbbf091-3c0f-4d4c-ac9a-4e0a064e519c)
+
 
 - ## **_Category-Dynamic Programming_**
 - ### **_Difficulty-Hard_**
