@@ -1,4 +1,5 @@
 # Water Area...
+![water-area](https://github.com/belisky/AlgoMornings/assets/61013338/8c7eabb9-7f6b-4456-a307-19ad47ca381f)
 
 - ## **_Category-Dynamic Programming_**
 - ### **_Difficulty-Hard_**
