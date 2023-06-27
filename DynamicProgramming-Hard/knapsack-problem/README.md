@@ -1,4 +1,6 @@
 # knapSack Problem...
+![knapsack](https://github.com/belisky/AlgoMornings/assets/61013338/18878622-81f8-400a-ad1a-a99091987bb8)
+
 
 - ## **_Category-Dynamic Programming_**
 - ### **_Difficulty-Hard_**
