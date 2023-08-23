@@ -39,7 +39,19 @@ phoneNumber='1905'
 ---
 
 ```
- 
+ [
+    '1w0j',
+    '1w0k',
+    '1w0l',
+    '1x0j',
+    '1x0k',
+    '1y0j',
+    '1y0k',
+    '1y0l',
+    '1z0j',
+    '1z0k',
+    '1z0l'
+ ]
 ```
 
 ## Approach to Solution
@@ -50,13 +62,13 @@ phoneNumber='1905'
 
 ---
 
-- The time complexity of this approach is O(n\*2^n) time.-where n is the length of the input array.
+- The time complexity of this approach is O(n\*4^n) time.-where n is the length of the input array.
 
 ### Space Complexity
 
 ---
 
-- The space complexity of this approach is O(n\*2^n) space.
+- The space complexity of this approach is O(n\*4^n) space.
 
 ---
 
